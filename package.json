@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-ether",
+  "version": "1.0.0",
+  "description": "hello world smart contract ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piotr jagiello",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.6",
+    "hardhat": "^2.6.3"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
